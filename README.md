@@ -1,4 +1,4 @@
-# Colorcord
+# Colorrole
 A Code that allows you to get Rainbow Roles using a Discord Bot
 
 ## Usage : 
